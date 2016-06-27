@@ -1,4 +1,4 @@
-# consul-deb
+# consul-template-deb
 Builds consul packages
 
 ## Requirements
@@ -7,4 +7,4 @@ Builds consul packages
 
 ## Usage
 
-Pass a VERSION environment variable to specify a version of consul, otherwise downloads the latest version (currently 0.6.4)
+Pass a VERSION environment variable to specify a version of consul, otherwise downloads the latest version (currently 0.15.0)
