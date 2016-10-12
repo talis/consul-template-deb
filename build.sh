@@ -9,7 +9,7 @@ if [[ $UID != 0 ]]; then
 fi
 
 if [ -z "$1" ]; then
-    VERSION="0.15.0"
+    VERSION="0.16.0"
 else
     VERSION=$1
 fi
